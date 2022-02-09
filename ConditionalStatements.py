@@ -4,5 +4,5 @@ if [num1 < num2]:
 	print("value of num2 is greater than value of num1")
 elif [num1 > num2]:
 	print("value of num1 is greater than value of num2")
-else :
+else:
 	print("Both the values are equal")
