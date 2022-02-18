@@ -45,7 +45,7 @@ set = {1, 2, 3, 4, 5}
 print(set);
 
 #boolean---------------------
-boolean : True False;
+boolean : [True, False]
 
 #complex datatypes---------------
 comp : 4 + 3j;
